@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Blake (@blakeops75)
 
-<!--
-**blakeops75/blakeops75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Platform engineer based in London. Spend most of my days building reliable deployment pipelines, wrestling Kubernetes manifests, and making sure alerts only fire when things are actually broken.
 
-Here are some ideas to get you started:
+#### What I work on
+- Automating cloud infra with Terraform
+- Writing GitHub Actions workflows that don't take 20 minutes to run
+- Debugging networking issues across Linux containers
+- Homelab cluster running on mini PCs under my desk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Daily toolbox
+- **OS / Scripting:** Linux (Debian/Ubuntu), Bash, Python
+- **Containers & Orchestration:** Docker, Kubernetes, Helm
+- **IaC & CI/CD:** Terraform, GitHub Actions, ArgoCD
+- **Monitoring:** Prometheus, Grafana
+
+#### Reach out
+- LinkedIn: linkedin.com/in/blakeops75
+- Email: blake.ops75@proton.me
